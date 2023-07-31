@@ -1,5 +1,8 @@
 _repo: The-Works-of-the-Reverend-George-Whitefield-Vol-II-of-6_71140
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whitefield, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55037
     wikipedia: https://en.wikipedia.org/wiki/George_Whitefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71140#The-Works-of-the-Reverend-George-Whitefield-Vol-II-of-6
 gutenberg_issued: '2023-07-07'
 identifiers:
   gutenberg: '71140'
